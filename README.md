@@ -43,3 +43,175 @@
         </tr>
     </tbody>
 </table>
+###Article
+<table>
+    <thead>
+        <tr>
+            <th align="left">Operation</th>
+            <th> Verb</th>
+            <th align ="center">URL</th>
+            <th align="left">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Read(all)</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Create</td>
+            <td> POST</td>
+            <td align ="center">/users/id/article</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Read</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article/id</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Update</td>
+            <td> PUT</td>
+            <td align ="center">/users/id/article/id</td>
+            <td align="left">See Before</td>
+        </tr>
+         <tr>
+            <td align="left">Destroy</td>
+            <td> DELETE</td>
+            <td align ="center">/users/id/article/id</td>
+            <td align="left"> 	See Before</td>
+        </tr>
+    </tbody>
+</table>
+###Comment
+<table>
+    <thead>
+        <tr>
+            <th align="left">Operation</th>
+            <th> Verb</th>
+            <th align ="center">URL</th>
+            <th align="left">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Read(all)</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article/id/comment</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Create</td>
+            <td> POST</td>
+            <td align ="center">/users/id/article/id/comment</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Read</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article/id/comment/id</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Update</td>
+            <td> PUT</td>
+            <td align ="center">/users/id/article/id/comment/id</td>
+            <td align="left">See Before</td>
+        </tr>
+         <tr>
+            <td align="left">Destroy</td>
+            <td> DELETE</td>
+            <td align ="center">/users/id/article/id/comment/id</td>
+            <td align="left"> 	See Before</td>
+        </tr>
+    </tbody>
+</table>
+###Picture
+<table>
+    <thead>
+        <tr>
+            <th align="left">Operation</th>
+            <th> Verb</th>
+            <th align ="center">URL</th>
+            <th align="left">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Read(all)</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article/id/picture</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Create</td>
+            <td> POST</td>
+            <td align ="center">/users/id/article/id/picture</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Read</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article/id/picture/id</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Update</td>
+            <td> PUT</td>
+            <td align ="center">/users/id/article/id/picture/id</td>
+            <td align="left">See Before</td>
+        </tr>
+         <tr>
+            <td align="left">Destroy</td>
+            <td> DELETE</td>
+            <td align ="center">/users/id/article/id/picture/id</td>
+            <td align="left"> 	See Before</td>
+        </tr>
+    </tbody>
+</table>
+###Picture Comments
+<table>
+    <thead>
+        <tr>
+            <th align="left">Operation</th>
+            <th> Verb</th>
+            <th align ="center">URL</th>
+            <th align="left">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Read(all)</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article/id/picture/comment</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Create</td>
+            <td> POST</td>
+            <td align ="center">/users/id/article/id/picture/comment</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Read</td>
+            <td> GET</td>
+            <td align ="center">/users/id/article/id/picture/comment/id</td>
+            <td align="left">See Before</td>
+        </tr>
+        <tr>
+            <td align="left">Update</td>
+            <td> PUT</td>
+            <td align ="center">/users/id/article/id/picture/comment/id</td>
+            <td align="left">See Before</td>
+        </tr>
+         <tr>
+            <td align="left">Destroy</td>
+            <td> DELETE</td>
+            <td align ="center">/users/id/article/id/picture/comment/id</td>
+            <td align="left"> 	See Before</td>
+        </tr>
+    </tbody>
+</table>
