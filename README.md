@@ -118,7 +118,7 @@
         <tr>
             <td align="left">Read</td>
             <td> GET</td>
-            <td align ="center">/authors/id/articles/aid/comments/id</td>
+            <td align ="center">/authors/id/articles/aid/comments/cid</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
@@ -198,25 +198,25 @@
         <tr>
             <td align="left">Read(all)</td>
             <td> GET</td>
-            <td align ="center">/authors/id/articles/aid/picture/pid/comments</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid/comments</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Create</td>
             <td> POST</td>
-            <td align ="center">/authors/id/articles/aid/picture/pid/comments</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid/comments</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Read</td>
             <td> GET</td>
-            <td align ="center">/authors/id/articles/aid/picture/pid/comment/pcid</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid/comment/pcid</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Update</td>
             <td> PUT</td>
-            <td align ="center">/authors/id/articles/aid/picture/pid/comments/pcid</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid/comments/pcid</td>
             <td align="left">See Before</td>
         </tr>
          <tr>
