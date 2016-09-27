@@ -5,7 +5,7 @@
 ## REST API
 <br/>
 <br/>
-<br/><img src = /Web1Pipot.png>
+<br/><img src = /REST_API.png>
 <br/>
 <br/>
 <br/>
