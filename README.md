@@ -43,6 +43,9 @@
         </tr>
     </tbody>
 </table>
+<br/>
+<br/>
+<br/>
 ###Article
 <table>
     <thead>
@@ -86,6 +89,9 @@
         </tr>
     </tbody>
 </table>
+<br/>
+<br/>
+<br/>
 ###Comment
 <table>
     <thead>
@@ -129,6 +135,9 @@
         </tr>
     </tbody>
 </table>
+<br/>
+<br/>
+<br/>
 ###Picture
 <table>
     <thead>
@@ -172,6 +181,9 @@
         </tr>
     </tbody>
 </table>
+<br/>
+<br/>
+<br/>
 ###Picture Comments
 <table>
     <thead>
