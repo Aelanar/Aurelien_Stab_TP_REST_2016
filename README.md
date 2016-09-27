@@ -14,32 +14,32 @@
         <tr>
             <td align="left">Read(all)</td>
             <td> GET</td>
-            <td align ="center">/users</td>
-            <td align="left">Return the list of the users</td>
+            <td align ="center">/authors</td>
+            <td align="left">Return the list of the authors</td>
         </tr>
         <tr>
             <td align="left">Create</td>
             <td> POST</td>
-            <td align ="center">/users</td>
-            <td align="left">Create a new user</td>
+            <td align ="center">/authors</td>
+            <td align="left">Create a new author</td>
         </tr>
         <tr>
             <td align="left">Read</td>
             <td> GET</td>
-            <td align ="center">/users/id</td>
-            <td align="left">Return only one user from its unique id</td>
+            <td align ="center">/authors/id</td>
+            <td align="left">Return only one author from its unique id</td>
         </tr>
         <tr>
             <td align="left">Update</td>
             <td> PUT</td>
-            <td align ="center">/users/id</td>
-            <td align="left">Update the user whose id is given in the the URI</td>
+            <td align ="center">/authors/id</td>
+            <td align="left">Update the author whose id is given in the the URI</td>
         </tr>
          <tr>
             <td align="left">Destroy</td>
             <td> DELETE</td>
-            <td align ="center">/users/id</td>
-            <td align="left"> 	Delete the user whose id is given in the URI</td>
+            <td align ="center">/authors/id</td>
+            <td align="left"> 	Delete the author whose id is given in the URI</td>
         </tr>
     </tbody>
 </table>
@@ -60,31 +60,31 @@
         <tr>
             <td align="left">Read(all)</td>
             <td> GET</td>
-            <td align ="center">/users/id/article</td>
+            <td align ="center">/authors/id/articles</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Create</td>
             <td> POST</td>
-            <td align ="center">/users/id/article</td>
+            <td align ="center">/authors/id/articles</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Read</td>
             <td> GET</td>
-            <td align ="center">/users/id/article/aid</td>
+            <td align ="center">/authors/id/articles/aid</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Update</td>
             <td> PUT</td>
-            <td align ="center">/users/id/article/aid</td>
+            <td align ="center">/authors/id/articles/aid</td>
             <td align="left">See Before</td>
         </tr>
          <tr>
             <td align="left">Destroy</td>
             <td> DELETE</td>
-            <td align ="center">/users/id/article/aid</td>
+            <td align ="center">/authors/id/articles/aid</td>
             <td align="left"> 	See Before</td>
         </tr>
     </tbody>
@@ -106,31 +106,31 @@
         <tr>
             <td align="left">Read(all)</td>
             <td> GET</td>
-            <td align ="center">/users/id/article/aid/comment</td>
+            <td align ="center">/authors/id/articles/aid/comments</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Create</td>
             <td> POST</td>
-            <td align ="center">/users/id/article/aid/comment</td>
+            <td align ="center">/authors/id/articles/aid/comments</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Read</td>
             <td> GET</td>
-            <td align ="center">/users/id/article/aid/comment/id</td>
+            <td align ="center">/authors/id/articles/aid/comments/id</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Update</td>
             <td> PUT</td>
-            <td align ="center">/users/id/article/aid/comment/cid</td>
+            <td align ="center">/authors/id/articles/aid/comments/cid</td>
             <td align="left">See Before</td>
         </tr>
          <tr>
             <td align="left">Destroy</td>
             <td> DELETE</td>
-            <td align ="center">/users/id/article/aid/comment/cid</td>
+            <td align ="center">/authors/id/articles/aid/comments/cid</td>
             <td align="left"> 	See Before</td>
         </tr>
     </tbody>
@@ -152,31 +152,31 @@
         <tr>
             <td align="left">Read(all)</td>
             <td> GET</td>
-            <td align ="center">/users/id/article/aid/picture</td>
+            <td align ="center">/authors/id/articles/aid/pictures</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Create</td>
             <td> POST</td>
-            <td align ="center">/users/id/article/aid/picture</td>
+            <td align ="center">/authors/id/articles/aid/pictures</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Read</td>
             <td> GET</td>
-            <td align ="center">/users/id/article/aid/picture/pid</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Update</td>
             <td> PUT</td>
-            <td align ="center">/users/id/article/aid/picture/pid</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid</td>
             <td align="left">See Before</td>
         </tr>
          <tr>
             <td align="left">Destroy</td>
             <td> DELETE</td>
-            <td align ="center">/users/id/article/aid/picture/pid</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid</td>
             <td align="left"> 	See Before</td>
         </tr>
     </tbody>
@@ -198,31 +198,31 @@
         <tr>
             <td align="left">Read(all)</td>
             <td> GET</td>
-            <td align ="center">/users/id/article/aid/picture/comment</td>
+            <td align ="center">/authors/id/articles/aid/picture/pid/comments</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Create</td>
             <td> POST</td>
-            <td align ="center">/users/id/article/aid/picture/comment</td>
+            <td align ="center">/authors/id/articles/aid/picture/pid/comments</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Read</td>
             <td> GET</td>
-            <td align ="center">/users/id/article/aid/picture/comment/pcid</td>
+            <td align ="center">/authors/id/articles/aid/picture/pid/comment/pcid</td>
             <td align="left">See Before</td>
         </tr>
         <tr>
             <td align="left">Update</td>
             <td> PUT</td>
-            <td align ="center">/users/id/article/aid/picture/comment/pcid</td>
+            <td align ="center">/authors/id/articles/aid/picture/pid/comments/pcid</td>
             <td align="left">See Before</td>
         </tr>
          <tr>
             <td align="left">Destroy</td>
             <td> DELETE</td>
-            <td align ="center">/users/id/article/aid/picture/comment/pcid</td>
+            <td align ="center">/authors/id/articles/aid/pictures/pid/comments/pcid</td>
             <td align="left"> 	See Before</td>
         </tr>
     </tbody>
